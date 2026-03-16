@@ -137,10 +137,8 @@ Estudante de Engenharia de Software com foco em:
 
 Caso tenha interesse em projetos ou parcerias:
 
-* GitHub
-* LinkedIn
-* Workana
-* 99Freelas
+* [LinkedIn](https://www.linkedin.com/in/andersonasnunes/)
+* [Workana](https://www.workana.com/freelancer/dcb4d62cd187c5e606d65f548d95c2b2)
 
 ---
 
