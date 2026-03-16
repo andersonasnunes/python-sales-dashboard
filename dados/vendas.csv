@@ -1,0 +1,31 @@
+data,produto,categoria,quantidade,preco,vendedor,regiao
+2026-01-02,Notebook Dell,Informática,2,4200,Carlos,Sudeste
+2026-01-03,Mouse Logitech,Periféricos,10,120,Ana,Sul
+2026-01-03,Teclado Mecânico,Periféricos,4,350,João,Sudeste
+2026-01-04,Monitor LG 24,Monitores,3,900,Carla,Nordeste
+2026-01-05,Notebook Lenovo,Informática,1,3800,Carlos,Sudeste
+2026-01-05,Mouse Gamer,Periféricos,6,150,Ana,Sul
+2026-01-06,Headset Gamer,Áudio,5,280,João,Sudeste
+2026-01-06,Monitor Samsung,Monitores,2,1100,Pedro,Nordeste
+2026-01-07,Webcam HD,Periféricos,8,200,Ana,Sul
+2026-01-08,Notebook Asus,Informática,2,4100,Carlos,Sudeste
+2026-01-08,Mouse Logitech,Periféricos,12,120,Pedro,Nordeste
+2026-01-09,Teclado Mecânico,Periféricos,3,350,João,Sudeste
+2026-01-09,Monitor LG 24,Monitores,2,900,Carla,Nordeste
+2026-01-10,Headset Gamer,Áudio,4,280,Ana,Sul
+2026-01-10,Notebook Dell,Informática,1,4200,Carlos,Sudeste
+2026-01-11,Mouse Gamer,Periféricos,7,150,Pedro,Nordeste
+2026-01-11,Webcam HD,Periféricos,6,200,Ana,Sul
+2026-01-12,Monitor Samsung,Monitores,1,1100,João,Sudeste
+2026-01-12,Notebook Lenovo,Informática,2,3800,Carlos,Sudeste
+2026-01-13,Headset Gamer,Áudio,3,280,Ana,Sul
+2026-01-13,Teclado Mecânico,Periféricos,5,350,Pedro,Nordeste
+2026-01-14,Monitor LG 24,Monitores,2,900,Carla,Nordeste
+2026-01-14,Notebook Asus,Informática,1,4100,Carlos,Sudeste
+2026-01-15,Mouse Logitech,Periféricos,9,120,Ana,Sul
+2026-01-15,Webcam HD,Periféricos,4,200,João,Sudeste
+2026-01-16,Headset Gamer,Áudio,6,280,Pedro,Nordeste
+2026-01-16,Monitor Samsung,Monitores,3,1100,Carla,Nordeste
+2026-01-17,Notebook Dell,Informática,1,4200,Carlos,Sudeste
+2026-01-17,Mouse Gamer,Periféricos,8,150,Ana,Sul
+2026-01-18,Teclado Mecânico,Periféricos,4,350,João,Sudeste
